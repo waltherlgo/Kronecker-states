@@ -1,2 +1,2 @@
 # Kronecker-states
-Notebooks to calculate Kronecker states form the stitching procedure.
+Mathematica notebooks to calculate Kronecker states form the stitching procedure.
